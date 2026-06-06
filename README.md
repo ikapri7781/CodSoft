@@ -1,1 +1,1 @@
-# CodSoft
+minor internship projects
